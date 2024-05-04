@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "<ul><li>JavaScript</li><li>HTML</li><li>CSS</li><li>ReactJs</li></ul>"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "<ul><li>PHP</li><li>Python</li><li>Java</li><li>Kotlin</li></ul>"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "<ul><li>sdvfsgv</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li></ul>"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "<ul><li>xdfgbxdf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li></ul>"
+    }
+  ],
+
+  "education": [
+    {
+      "id": "1",
+      "title": "Master of Computer Application (MCA)",
+      "description": "<ul><li>Marthoma Institute of Information Technology, Ayur (2021-2023)</li><li>80.00%</li></ul>"
+    },
+    {
+      "id": "2",
+      "title": "Bachelor of Computer Application (BCA)",
+      "description": "<ul><li>University Institute of Technology, Kottarakkara (2017-2021)</li><li>64.37%</li></ul>"
+    },
+    {
+      "id": "3",
+      "title": "Higher Secondary Education (12th)",
+      "description": "<ul><li>Kendriya Vidyalaya, Kollam (2015-2017)</li><li>72.60%</li></ul>"
+    },
+    {
+      "id": "4",
+      "title": "Secondary Education (10th)",
+      "description": "<ul><li>Kendriya Vidyalaya, Kollam (2015-2017)</li><li>79.80%</li></ul>"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "TTS Android App",
+      "description": "This Android app converts text input into spoken words.Simple to use, Support US English language and Uses the 'TextToSpeech' class from the Android SDK to provide text-to-speech functionality",
+      "link": "https://github.com/ADR-SB/TTS_Android_App"
+    }
+  ]
+}
