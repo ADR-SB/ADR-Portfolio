@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ADR-Portfolio/static/css/main.d10ff25a.css",
+    "main.css": "/ADR-Portfolio/static/css/main.8d20ead4.css",
     "main.js": "/ADR-Portfolio/static/js/main.a9439a4f.js",
     "static/media/hero_img1.png": "/ADR-Portfolio/static/media/hero_img1.e3bc74a242a69dbff6f5.png",
     "static/media/hero_img.png": "/ADR-Portfolio/static/media/hero_img.618d7a2289374e7738c3.png",
@@ -11,11 +11,11 @@
     "static/media/placeholder-image-1.png": "/ADR-Portfolio/static/media/placeholder-image-1.ce5b7201aa87141e4d96.png",
     "static/media/logo1.svg": "/ADR-Portfolio/static/media/logo1.85851f27e4d2b3a66932.svg",
     "index.html": "/ADR-Portfolio/index.html",
-    "main.d10ff25a.css.map": "/ADR-Portfolio/static/css/main.d10ff25a.css.map",
+    "main.8d20ead4.css.map": "/ADR-Portfolio/static/css/main.8d20ead4.css.map",
     "main.a9439a4f.js.map": "/ADR-Portfolio/static/js/main.a9439a4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d10ff25a.css",
+    "static/css/main.8d20ead4.css",
     "static/js/main.a9439a4f.js"
   ]
 }
