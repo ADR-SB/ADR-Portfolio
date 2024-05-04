@@ -2,25 +2,25 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "product-chain-1.png",
       "title": "Front-End",
       "description": "<ul><li>JavaScript</li><li>HTML</li><li>CSS</li><li>ReactJs</li></ul>"
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "tag-1.png",
       "title": "Back-End",
       "description": "<ul><li>PHP</li><li>Python</li><li>Java</li><li>Kotlin</li></ul>"
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
+      "src": "feather-pen-2.png",
       "title": "UI & UX Design",
       "description": "<ul><li>sdvfsgv</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li></ul>"
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "feather-pen-1.png",
       "title": "Webflow Development",
       "description": "<ul><li>xdfgbxdf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li><li>sbgshsbdhf</li></ul>"
     }
@@ -51,7 +51,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "placeholder-image-2.png",
       "title": "TTS Android App",
       "description": "This Android app converts text input into spoken words.Simple to use, Support US English language and Uses the 'TextToSpeech' class from the Android SDK to provide text-to-speech functionality",
       "link": "https://github.com/ADR-SB/TTS_Android_App"
